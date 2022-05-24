@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![jbenitez's 42 stats](https://badge42.vercel.app/api/v2/cl3k3o4wk000609m9jxjcdm75/stats?cursusId=21&coalitionId=215)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **jbenitez42/jbenitez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
